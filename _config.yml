@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ye Yuan / Homepage"
+title                    : "Ye Yuan"
 title_separator          : "-"
 name                     : &name "Ye Yuan"
-description              : &description "personal description placeholder"
+description              : &description "B.E. in CS"
 url                      : https://yethyuan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YEthYuan/YEthYuan.github.io"
