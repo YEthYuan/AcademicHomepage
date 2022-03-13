@@ -92,7 +92,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     //       ]
     //     }
     //   ],
-    },
+    // },
     // valineConfig 配置与 1.x 一致
     // valineConfig: {
     //   appId: 'xxx',
