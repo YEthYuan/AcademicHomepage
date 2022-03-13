@@ -9,7 +9,7 @@ git init
 git add -A
 git commit -m '--deploy'
 # <USERNAME> 就是GitHub的用户名
-如果发布到 https://YEthYuan.github.io
+# 如果发布到 https://YEthYuan.github.io
 git push -f git@github.com:YEthYuan/YEthYuan.github.io.git master
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
