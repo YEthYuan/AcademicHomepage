@@ -7,11 +7,11 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Portfolio"
+    url: https://yeyuan.pro/
         
   - title: "Blog"
-    url: /blog/
+    url: https://blog.yeyuan.pro/
 
   - title: "Publications"
     url: /publications/

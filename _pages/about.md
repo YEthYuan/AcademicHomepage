@@ -12,7 +12,7 @@ redirect_from:
 
 Hi, I am currently an undergraduate student in the School of Cyber Science and Engineering, Huazhong University of Science and Technology (CS Department, HUST). My researches are now mainly interested in Adversarial Machine Learning, Backdoor Attack, and Efficient DNN Training.
 
-GPA: 3.96/4.0 | 92.2/100 | Top 7 of 253 students
+GPA: 3.97/4.0 | 92.2/100 | Top 7 of 253 students
 
 Research
 ======
